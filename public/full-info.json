@@ -1,0 +1,28 @@
+{
+    "id": "774f65be-2ea2-11ed-a418-d00d13b6e724",
+    "shortName": "Данелян Г.",
+    "lastName": "Данелян",
+    "firstName": "Геворг",
+    "patronymic": "",
+    "permissionsIds": [
+        "f37cf1ff-63e9-40a5-ba0a-88901801fa26",
+        "8fec1309-64c7-4c59-9c93-6fe045cc78a1",
+        "aefa562a-1d51-45b7-8529-102005873a2f",
+        "1055744f-c098-43cc-8350-d0277e4f970b"
+    ],
+    "roleId": "09e74bf8-ec86-11ec-b675-995b57e3ebc5",
+    "roleName": "Локальный админ",
+    "copyMessagesToEmail": false,
+    "copyNotificationsToEmail": false,
+    "companyId": "00000000-0000-0000-0000-000000000001",
+    "departmentId": null,
+    "companyName": "",
+    "departmentName": "",
+    "phone": "+77777732535",
+    "phoneCountryCode": "ru",
+    "email": "g.danelyan@worksolutions.ru",
+    "position": null,
+    "isAdmin": false,
+    "avatar": "8c0045ed-e765-4d8e-88ba-f495e3cbfbae.png",
+    "preferredLanguage": 0
+}
